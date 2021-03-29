@@ -1,0 +1,12 @@
+## Hello World! 🌎
+
+### About Me 🙋🏻‍♂️
+I'm a computer scientist and master's student interested in Data Science, Machine Learning, Recommender Systems, Semantic Web and Front-end. Enthusiast of open source, learning new technologies and teaching about the world of programming to others.  
+ 
+### Tools & Technologies 👨🏻‍💻
+- 💬 Python, Java, C/C++
+- 🌐 HTML, CSS, DBPedia, Wikidata
+- 🛢️ SQL, SPARQL
+- :octocat: Git, Github
+- 💻 Pycharm, Jupyter Notebook, VSStudio, VSCode, CodeBlocks
+- 📚 Numpy, Pandas, Sklearn, Anaconda, Pytorch
