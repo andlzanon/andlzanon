@@ -8,5 +8,5 @@ I'm a computer scientist and master's student interested in Data Science, Machin
 - 🌐 HTML, CSS, DBPedia, Wikidata
 - 🛢️ SQL, SPARQL
 - :octocat: Git, Github
-- 💻 Pycharm, Jupyter Notebook, VSStudio, VSCode, CodeBlocks
+- 💻 Pycharm, Jupyter Notebook, VStudio, VSCode, CodeBlocks
 - 📚 Numpy, Pandas, Sklearn, Anaconda, Pytorch
