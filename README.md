@@ -5,7 +5,7 @@ I'm a computer scientist and master's student interested in Data Science, Machin
  
 ### Tools & Technologies 👨🏻‍💻
 - 💬 Python, Java, C/C++
-- 🌐 HTML, CSS, DBPedia, Wikidata
+- 🌐 HTML, CSS, Bootstrap, JavaScript, React, DBPedia, Wikidata 
 - 🛢️ SQL, SPARQL
 - :octocat: Git, Github
 - 💻 Pycharm, Jupyter Notebook, VStudio, VSCode, CodeBlocks
